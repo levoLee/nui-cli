@@ -1,0 +1,19 @@
+{
+  "name": "nui-cli",
+  "version": "1.0.2",
+  "description": "a simple cli for scaffolding nui project",
+  "main": "lib/index.js",
+  "dependencies": {
+    "download-git-repo": "^0.2.1",
+    "inquirer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nui init"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "zixia.wang",
+  "license": "ISC"
+}
