@@ -1,6 +1,6 @@
 {
   "name": "nui-cli",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "a simple cli for scaffolding nui project",
   "main": "lib/index.js",
   "dependencies": {
