@@ -7,8 +7,8 @@
     "download-git-repo": "^0.2.1",
     "inquirer": "^2.0.0"
   },
-  "bin":{
-    "nui init":"./bin/nui"  
+ "bin":{
+    "nui-init":"./bin/nui"  
   },
   "devDependencies": {},
   "scripts": {
